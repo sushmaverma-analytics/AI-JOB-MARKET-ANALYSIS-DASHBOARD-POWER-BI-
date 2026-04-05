@@ -40,6 +40,11 @@ Power Bi AI job Market dashboard analyzing high demand job, salary, skills, educ
 
 ## 📌 Conclusion
 This project highlights how data analytics can help understand market trends and support better career decisions in the AI industry.
+## 📊 Dashboard Preview
+
+This is the final Power BI dashboard showcasing key insights from the AI Job Market dataset, including salary trends, job demand, and skill analysis.
+
+<img width="1163" height="646" alt="Screenshot 2026-04-05 043414" src="https://github.com/user-attachments/assets/a94504ff-f0eb-4c31-bef0-1d7f0a1aca99" />
 
 ---
 
